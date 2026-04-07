@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="338.22879"
+   height="433.00803"
+   viewport="0 0 338.22879 433.00803"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     transform="matrix(1,0,0,-1,0,433.00801)">
+    <circle
+       fill="#ff6600"
+       cx="169.1144"
+       cy="263.89362"
+       r="169.1144"/>
+    <path
+       fill="#ff6600"
+       d="M 171.04041,0 88.606932,120.18338 H 249.62185 Z"/>
+    <circle
+       fill="#ffffff"
+       cx="167.75174"
+       cy="263.89362"
+       r="135.2915"/>
+    <g
+       transform="matrix(-1.2568433,0,0,-1.2324831,288.21515,404.60066)"
+       fill="none"
+       stroke="#000000"
+       stroke-width="5.64734"
+       style="stroke-width:6.42775">
+      <g
+         stroke-linecap="round"
+         stroke-miterlimit="0"
+         fill="#ffffff"
+         style="stroke-width:6.42775">
+        <path
+           d="m 26.452,98.755001 c 0,0 -4.4036,-24.415001 15.536,-21.89"
+           stroke-width="37.1155"
+           fill="#ffffff"
+           style="stroke-width:6.42775" />
+        <path
+           d="m 165.24,99.754 c 0,0 4.4036,-24.415 -15.536,-21.89"
+           stroke-width="37.1155"
+           fill="#ffffff"
+           style="stroke-width:6.42775"/>
+        <path
+           d="m 45.499,131.27 c 0.3965,21.075 -3.9555,44.701 11.754,46.055 9.2146,0.7939 15.011,-9.0465 13.313,-19.362"
+           stroke-linejoin="round"
+           stroke-width="36.5491"
+           fill="#ffffff"
+           style="stroke-width:6.42775"/>
+        <path
+           d="m 146.11,131.08 c -0.39651,21.075 3.6366,44.892 -12.073,46.246 -9.2146,0.7939 -15.011,-9.0465 -13.313,-19.362"
+           stroke-linejoin="round"
+           stroke-width="35.9847"
+           fill="#ffffff"
+           style="stroke-width:6.42775"/>
+      </g>
+      <rect
+         x="45.558998"
+         y="50.957001"
+         width="100.42001"
+         height="106.46363"
+         rx="12.129467"
+         ry="14.139503"
+         stroke-linecap="square"
+         stroke-miterlimit="60"
+         stroke-width="37.5617"
+         style="fill:#ff6600;stroke-width:6.42775;stroke-linecap:square;stroke-linejoin:miter"/>
+      <g
+         stroke-linecap="square"
+         stroke-miterlimit="60"
+         stroke-width="37.3543"
+         style="stroke-width:6.42775">
+        <circle
+           cx="63.266998"
+           cy="136.46001"
+           r="7.0230999"
+           fill="#ffffff"
+           style="stroke-width:6.42775" />
+        <circle
+           cx="128.27"
+           cy="136.46001"
+           r="7.0230999"
+           fill="#ffffff"
+           style="stroke-width:6.42775"/>
+      </g>
+      <path
+         d="m 56.223,73.04 v 47.757 h 79.091 L 135.09184,73.04 Z"
+         stroke-linecap="square"
+         stroke-linejoin="round"
+         stroke-miterlimit="0"
+         stroke-width="37.1155"
+         fill="#ffffff"
+         style="stroke-width:6.42775"/>
+    </g>
+  </g>
+</svg>

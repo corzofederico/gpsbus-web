@@ -1,0 +1,18 @@
+Política de Privacidad
+
+En Colectivos Bahía Blanca, valoramos y respetamos tu privacidad. Esta aplicación fue diseñada para ofrecerte información sobre los recorridos y paradas de colectivos en la ciudad de Bahía Blanca sin necesidad de recopilar datos personales.
+
+Información que no recopilamos
+No solicitamos ni almacenamos datos personales.
+
+No pedimos acceso a tu nombre, correo electrónico, número de teléfono ni ningún otro dato identificable.
+
+Uso de la ubicación
+La aplicación puede acceder a tu ubicación actual para mostrarte en el mapa y ayudarte a encontrar las paradas o líneas de colectivo cercanas. Sin embargo:
+
+Tu ubicación nunca se envía a servidores ni se comparte por internet.
+
+La ubicación se utiliza únicamente de forma local dentro del dispositivo.
+
+Seguridad
+Dado que no recolectamos ni almacenamos información personal, no existe ningún riesgo de filtración o mal uso de tus datos.

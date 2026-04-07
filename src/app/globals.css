@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+}
+
+@theme {
+  --orange: #FF6600;
+  --light-orange: #ffb888;
+  --dark-orange: #361e26;
+  --blue: #0077C2;
+}
+
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-rgb: 0, 0, 0;
+  }
+}
+
+html {
+  background-color: rgb(var(--background-rgb));
+  color: rgb(var(--foreground-rgb));
+}
